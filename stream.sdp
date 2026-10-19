@@ -1,0 +1,3 @@
+o=- 0 0 IN #add here IP adress of the rpi (shall be permanent)
+c=IN IP4 #add here IP adress of the rpi (shall be permanent)
+m=audio 6000 RTP/AVP 14

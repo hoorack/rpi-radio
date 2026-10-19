@@ -1,0 +1,5 @@
+#! /bin/bash
+cislo=`cat /tmp/cislo`
+let "cislo++"
+echo $cislo > /tmp/cislo
+killall mplayer mpg123 ffplay
